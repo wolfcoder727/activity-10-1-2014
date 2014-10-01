@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# gameWednesday
+#
+
+projectname: gameWednesday
+vendorid: com.mycompany
+mainmodule: com.mycompany.gamewednesday
